@@ -1,0 +1,5 @@
+shipsafe/graph.json
+shipsafe/*-graph.json
+shipsafe/refined-prompt.txt
+shipsafe/_shipsafe_tmp.txt
+node_modules/
